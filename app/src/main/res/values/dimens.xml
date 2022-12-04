@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="dp_16">16dp</dimen>
+    <dimen name="splashscreen_icon_mask_size_with_background">500dp</dimen>
+    <dimen name="splashscreen_icon_size_with_background">240dp</dimen>
 </resources>

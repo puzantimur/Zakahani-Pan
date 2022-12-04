@@ -80,6 +80,7 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <TextView
+            android:id="@+id/find"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/reggae_one"
@@ -90,17 +91,6 @@
             android:gravity="center"
             android:text="@string/find"
             app:layout_constraintTop_toBottomOf="@id/date"/>
-
-
-
-
-
-<!--        <com.aminography.primedatepicker.calendarview.PrimeCalendarView-->
-<!--            app:layout_constraintTop_toBottomOf="@id/guest_count"-->
-<!--            android:id="@+id/calendarView"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            app:pickedDayCircleColor="#0000FF" />-->
 
 
 

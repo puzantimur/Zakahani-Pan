@@ -4,4 +4,8 @@
     <string name="count_guest">Выберите количество гостей</string>
     <string name="date">Дата</string>
     <string name="find">Найти</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
 </resources>
