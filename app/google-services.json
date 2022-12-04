@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464961262668",
+    "firebase_url": "https://zakahani-pan-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "zakahani-pan",
+    "storage_bucket": "zakahani-pan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464961262668:android:853722811bdf236bea50e9",
+        "android_client_info": {
+          "package_name": "com.pan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464961262668-ckokggr4uq6ashnk1c2ltm3tdsnfrbsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5459D2d2JB6d7jrkriPSb_R8d03KGtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464961262668-ckokggr4uq6ashnk1c2ltm3tdsnfrbsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

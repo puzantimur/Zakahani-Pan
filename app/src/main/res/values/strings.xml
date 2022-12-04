@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pan</string>
+    <string name="zakahani_pan">Закаханы Пан</string>
+    <string name="count_guest">Выберите количество гостей</string>
+    <string name="date">Дата</string>
+    <string name="find">Найти</string>
+</resources>
